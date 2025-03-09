@@ -23,7 +23,7 @@ const title: Metadata['title'] = {
 }
 
 const description: Metadata['description'] =
-  'GitHub Release page with better UX. Read and discover GitHub repository release notes with ease.'
+  'Welcome to my Portfolio'
 
 const images: NonNullable<Metadata['openGraph']>['images'] = '/og-image.png'
 
